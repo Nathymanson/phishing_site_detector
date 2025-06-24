@@ -1,0 +1,6 @@
+URL,having_ip_address,url_length,https_token,suspicious_words,label
+"http://192.168.1.1/login",1,25,0,1,phishing
+"https://secure.amazon.com",0,27,1,0,legitimate
+"http://fake-login.com",0,16,0,1,phishing
+"https://paypal.com",0,14,1,0,legitimate
+"http://free-gift.ru",1,12,0,1,phishing
